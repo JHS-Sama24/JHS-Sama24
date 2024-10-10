@@ -1,4 +1,4 @@
-Aquí te dejo una versión mejorada y adaptada de tu presentación:
+
 
 ---
 
@@ -58,4 +58,3 @@ Aquí te dejo una versión mejorada y adaptada de tu presentación:
 
 --- 
 
-Esta presentación mantiene un estilo profesional y visualmente atractivo, ajustado para reflejar tus intereses y habilidades actuales. Puedes personalizar aún más según tus logros específicos y experiencias.
