@@ -1,4 +1,3 @@
-Claro, puedo ayudarte a crear tu repositorio de presentación en GitHub que sea detallado, divertido y que también incorpore aspectos de tu CV y banner. A continuación te doy una guía con un ejemplo estructurado que podrías utilizar:
 
 ---
 
@@ -61,4 +60,4 @@ Claro, puedo ayudarte a crear tu repositorio de presentación en GitHub que sea 
 
 ---
 
-¿Te gustaría hacer ajustes adicionales o agregar más secciones? ¡Déjame saber si te parece bien o si deseas agregar algo más divertido! 😊
+
