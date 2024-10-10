@@ -24,7 +24,7 @@
 - 🚀 Siempre explorando nuevas áreas de la tecnología y dispuesto a asumir nuevos retos.
 - 💼 Abierto a oportunidades de prácticas y empleo en el área de desarrollo de software y ciberseguridad.
 - 🛠️ Conocimiento en **metodologías ágiles** y en **arquitectura de software** como **Domain-Driven Design (DDD)** y **microservicios**.
-
+- 🌐 Portfolio: [Portfolio in progress...](#)
 <br>
 
 
@@ -83,17 +83,6 @@
 
 ---
 
-### ⚙️ &nbsp;GitHub Analytics
-
-<p align="center">
-  <a href="https://github.com/JHS-Sama24">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JHS-Sama24&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  </a>
-  <a href="https://github.com/JHS-Sama24">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JHS-Sama24&layout=compact&langs_count=8&theme=radical"/>
-  </a>
-</p>
-
 ## <picture><img src="img/Connect-with-me.gif?raw=true" width="100px"></picture> Conéctate conmigo
 
 <p align="center">
@@ -106,10 +95,3 @@
 
 ---
 
-### 📫 &nbsp;¡Contáctame!
-
-- ✉️ Email: [astuyauri.jherson@gmail.com](mailto:jhersastu@gmail.com)
-- 💼 LinkedIn: [Jherson Astuyauri](https://www.linkedin.com/in/jherson-astuyauri)
-- 🌐 Portfolio: [Tu Portafolio](#)
-
----
