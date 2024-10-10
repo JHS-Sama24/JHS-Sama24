@@ -6,7 +6,7 @@
 <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/> 
 <h2 align="left">¡Bienvenido a mi repositorio! Soy un apasionado desarrollador de software.</h2>
 
-<img alt="Jherson Banner" src="[ENLACE_DE_TU_BANNER]" width="100%"/>
+<img alt="Jherson Banner" src="[img git banner.png]" width="100%"/>
 
 ### 👨‍💻 &nbsp; Sobre Mí
 - 💻 Soy un estudiante de Ingeniería de Software en la **Universidad Peruana de Ciencias Aplicadas**, actualmente en mi 6to semestre.
