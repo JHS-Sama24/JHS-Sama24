@@ -83,7 +83,7 @@
 
 ---
 
-## <picture><img src="img/Connect-with-me.gif?raw=true" width="100px"></picture> Conéctate conmigo
+## <picture><img src="img/Connect-with-me.gif?raw=true" width="100px"></picture> Contáctate conmigo
 
 <p align="center">
   <a href="mailto:jhersastu@gmail.com"><img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
