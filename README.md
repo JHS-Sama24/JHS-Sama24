@@ -79,7 +79,7 @@
 ### 💼 &nbsp; Proyectos Relevantes
 
 - **Aplicación de Descuento de Letras/Facturas:** Desarrollé una **aplicación web** para la administración de una cartera de descuento de letras, integrando cálculos de **TCEA** y consolidación de cuentas con reportes.
-- **HormonalCare:** Un proyecto de **telemedicina** enfocado en el seguimiento de enfermedades hormonales, garantizando la seguridad de los datos y una experiencia de usuario amigable.
+- **HormonalCare:** Un proyecto de **telemedicina** enfocado en el seguimiento de enfermedades hormonales, garantizando la seguridad de los datos y una experiencia de un paciente.
 
 ---
 
