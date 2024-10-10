@@ -86,11 +86,11 @@
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
-  <a href="https://github.com/JhersonAstuyauri">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JhersonAstuyauri&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <a href="https://github.com/JHS-Sama24">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JHS-Sama24&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   </a>
-  <a href="https://github.com/JhersonAstuyauri">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JhersonAstuyauri&layout=compact&langs_count=8&theme=radical"/>
+  <a href="https://github.com/JHS-Sama24">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JHS-Sama24&layout=compact&langs_count=8&theme=radical"/>
   </a>
 </p>
 
