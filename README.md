@@ -33,11 +33,10 @@
 ### <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width="50px"></picture> Lenguajes de Programación
 
 <p align="center">
-  <a href="https://www.cprogramming.com/" target="_blank"><img alt="C" src="https://img.shields.io/badge/C-%232370ED.svg?style=plastic&logo=c&logoColor=white"></a>
   <a href="https://www.w3schools.com/cpp/" target="_blank"><img alt="C++" src="https://img.shields.io/badge/C++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white"></a>
   <a href="https://developer.mozilla.org/es/docs/Web/JavaScript" target="_blank"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=plastic&logo=javascript&logoColor=black"></a>
   <a href="https://www.python.org" target="_blank"><img alt="Python" src="https://img.shields.io/badge/Python-%230769AD.svg?style=plastic&logo=python&logoColor=white"></a>
-  <a href="https://kotlinlang.org/" target="_blank"><img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-%230769AD.svg?style=plastic&logo=kotlin&logoColor=white"></a>
+  <a href="[https://kotlinlang.org/](https://flutter.dev/?gad_source=1&gclid=Cj0KCQiAi_G5BhDXARIsAN5SX7qlYEx-Z93Fw41v5yexHVDpNMV1DqOge-LCy5U5Ykyet-TweXJoRokaAn9cEALw_wcB&gclsrc=aw.ds)" target="_blank"><img alt="Flutter" src="https://cdn.prod.website-files.com/5ee12d8d7f840543bde883de/5ef3a1148ac97166a06253c1_flutter-logo-white-inset.svg"></a>
   <a href="https://www.typescriptlang.org/" target="_blank"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white"></a>
 </p>
 
