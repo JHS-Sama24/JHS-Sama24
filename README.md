@@ -60,10 +60,7 @@
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-%23CC2927.svg?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)&nbsp;
 
 #### Desarrollo de Aplicaciones Móviles
-![Kotlin](https://img.shields.io/badge/Kotlin-%230769AD.svg?style=for-the-badge&logo=kotlin&logoColor=white)&nbsp;
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)&nbsp;
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)&nbsp;
-
 ---
 
 ### 🗂 &nbsp;Version Control y Herramientas
