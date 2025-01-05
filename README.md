@@ -24,7 +24,7 @@
 - 🚀 Siempre explorando nuevas áreas de la tecnología y dispuesto a asumir nuevos retos.
 - 💼 Abierto a oportunidades de prácticas y empleo en el área de desarrollo de software y ciberseguridad.
 - 🛠️ Conocimiento en **metodologías ágiles** y en **arquitectura de software** como **Domain-Driven Design (DDD)** y **microservicios**.
-- 🌐 Portfolio: [Portfolio in progress...](#)
+- 🌐 Portfolio: [Mi sitio web personal](https://jhersonss24-portafolio.netlify.app/)
 <br>
 
 
