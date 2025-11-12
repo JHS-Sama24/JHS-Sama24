@@ -61,12 +61,12 @@
 <p align="left">
   <img src="https://img.shields.io/badge/springboot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot">&nbsp;
   <img src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS">&nbsp;
-  <img src="httpsias.io/badge/asp.net-%235C2D91.svg?style=for-the-badge&logo=dotnet&logoColor=white" alt="ASP.NET">&nbsp;
+  <img src="https://img.shields.io/badge/asp.net-%235C2D91.svg?style=for-the-badge&logo=dotnet&logoColor=white" alt="ASP.NET">&nbsp;
 </p>
 
 **Bases de Datos**<br>
 <p align="left">
-  <img src="httpsal.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">&nbsp;
+  <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">&nbsp;
   <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">&nbsp;
 </p>
 
