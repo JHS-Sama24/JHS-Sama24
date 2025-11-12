@@ -2,7 +2,7 @@
 <h1 align="center">Qué tal!, soy Jherson <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Software+Engineering+Student;Cybersecurity+and+AI+Enthusiast;CTF+Competitor;Always+Learning+and+Exploring"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Software+Engineering+Student;Always+Learning+and+Exploring"></a>
 </p>
 
 <br>
@@ -16,13 +16,10 @@
 <picture><img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" /></picture>
 
 
-- 🎓 Estudiante de Ingeniería de Software en la [Universidad Peruana de Ciencias Aplicadas](https://pregrado.upc.edu.pe/facultad-de-ingenieria/ingenieria-de-software/).
-- 🔐 Apasionado por la ciberseguridad y la inteligencia artificial.
-- 🏆 Competidor en CTF (Capture the Flag) con enfoque en resolver desafíos complejos.
-- 💻 Experiencia en desarrollo web y backend con tecnologías como Spring Boot y Angular.
-- 📱 Conocimientos en desarrollo de aplicaciones móviles con **Kotlin** y **Flutter**.
+- 🎓 Estudiante de Ingeniería de Software en la Universidad Peruana de Ciencias Aplicadas.
+- 💻 Experiencia en desarrollo web y backend con tecnologías como Spring Boot y Angular, React, Nodejs, Nestjs y Nextjs.
+- 📱 Conocimientos en desarrollo de aplicaciones móviles con **Flutter**.
 - 🚀 Siempre explorando nuevas áreas de la tecnología y dispuesto a asumir nuevos retos.
-- 💼 Abierto a oportunidades de prácticas y empleo en el área de desarrollo de software y ciberseguridad.
 - 🛠️ Conocimiento en **metodologías ágiles** y en **arquitectura de software** como **Domain-Driven Design (DDD)** y **microservicios**.
 - 🌐 Portfolio: [Mi sitio web personal](https://jhersonss24-portafolio.netlify.app/)
 <br>
