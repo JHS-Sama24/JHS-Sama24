@@ -33,50 +33,56 @@
 </p>
 
 ---
-
 ## <font color="#C8BE25">🛠️ Mis Habilidades</font>
 
 ### <font color="#C8BE25">Lenguajes de Programación</font>
 
-<p align="center">
-  <a href="https://www.w3schools.com/cpp/" target="_blank"><img alt="C++" src="https://img.shields.io/badge/C++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white"></a>
-  <a href="https://developer.mozilla.org/es/docs/Web/JavaScript" target="_blank"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=plastic&logo=javascript&logoColor=black"></a>
-  <a href="https://www.python.org" target="_blank"><img alt="Python" src="https://img.shields.io/badge/Python-%230769AD.svg?style=plastic&logo=python&logoColor=white"></a>
-  <a href="https://kotlinlang.org/" target="_blank"><img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-%230769AD.svg?style=plastic&logo=kotlin&logoColor=white"></a>
-  <a href="https://www.typescriptlang.org/" target="_blank"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white"></a>
+<p align="left">
+  <img alt="C++" src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white">&nbsp;
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black">&nbsp;
+  <img alt="Python" src="https://img.shields.io/badge/Python-%230769AD.svg?style=for-the-badge&logo=python&logoColor=white">&nbsp;
+  <img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-%230769AD.svg?style=for-the-badge&logo=kotlin&logoColor=white">&nbsp;
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white">&nbsp;
 </p>
 
 ### <font color="#C8BE25">💻 Stack Tecnológico</font>
 
-<p align="center">
-  <strong>Frontend</strong><br>
+**Frontend**<br>
+<p align="left">
   <img src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white" alt="Angular">&nbsp;
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React">&nbsp;
+  <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js">&nbsp;
   <img src="https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D" alt="Vue.js">&nbsp;
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">&nbsp;
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">&nbsp;
-  <br><br>
-  <strong>Backend</strong><br>
+</p>
+
+**Backend**<br>
+<p align="left">
   <img src="https://img.shields.io/badge/springboot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot">&nbsp;
-  <img src="https://img.shields.io/badge/asp.net-%235C2D91.svg?style=for-the-badge&logo=dotnet&logoColor=white" alt="ASP.NET">&nbsp;
-  <br><br>
-  <strong>Bases de Datos</strong><br>
-  <img src="httpsias.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">&nbsp;
+  <img src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS">&nbsp;
+  <img src="httpsias.io/badge/asp.net-%235C2D91.svg?style=for-the-badge&logo=dotnet&logoColor=white" alt="ASP.NET">&nbsp;
+</p>
+
+**Bases de Datos**<br>
+<p align="left">
+  <img src="httpsal.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">&nbsp;
   <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">&nbsp;
-  <br><br>
-  <strong>Desarrollo Móvil</strong><br>
+</p>
+
+**Desarrollo Móvil**<br>
+<p align="left">
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter">&nbsp;
 </p>
 
 ### <font color="#C8BE25">🗂 Version Control y Herramientas</font>
 
-<p align="center">
+<p align="left">
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git">&nbsp;
   <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">&nbsp;
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman">&nbsp;
   <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VSCode">&nbsp;
 </p>
-
----
 
 ## <font color="#C8BE25">📊 GitHub Stats</font>
 
